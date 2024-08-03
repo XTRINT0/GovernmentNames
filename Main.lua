@@ -1,4 +1,4 @@
-return {
+{
   'John';
   'Bob';
   'Peter';
